@@ -1,6 +1,6 @@
 import random
 
-randomNumber = random.choice([1, 9])
+randomNumber = random.randint(1, 9)
 
 chances = 5
 
